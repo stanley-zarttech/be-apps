@@ -1,0 +1,22 @@
+{
+  "name": "bms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main"
+  },
+  "keywords": [
+    "book",
+    "api",
+    "management"
+  ],
+  "author": "Zarttalent",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "http-status-codes": "^2.3.0"
+  }
+}
