@@ -1,0 +1,32 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "A simple todo api for nodejs tutorial for zarttalent",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanley-zarttech/be-apps.git"
+  },
+  "keywords": [
+    "Todo",
+    "Restful",
+    "Api"
+  ],
+  "author": "King Stanley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanley-zarttech/be-apps/issues"
+  },
+  "homepage": "https://github.com/stanley-zarttech/be-apps#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
